@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/prueb/Desktop/9no/Servicios Web/Practica5_A180128/Telefonos.xsl"?>
+<cubo-rubik>
+	  <cubo>
+		  <marca>&#160;QiYi&#160;</marca>
+		  <modelo>&#160;Warrior S 3x3&#160;</modelo>
+          <tipo>&#160;stickerless&#160;</tipo>
+          <precio>&#160;$ 99&#160;</precio>
+      </cubo>
+	  <cubo>
+		  <marca>&#160;GAN&#160;</marca>
+		  <modelo>&#160;GAN 11M Magnet 3x3 &#160;</modelo>
+          <tipo>&#160;Base negra&#160;</tipo>
+          <precio>&#160;$ 1,539&#160;</precio>
+      </cubo>
+	  <cubo>
+		  <marca>&#160;MoYu&#160;</marca>
+		  <modelo>&#160;Weilong AI 3x3 &#160;</modelo>
+          <tipo>&#160;Stickerless&#160;</tipo>
+          <precio>&#160;$ 1,199
+      <cubo>
+        <marca>&#160;Cyclone boys&#160;</marca>
+        <modelo>&#160;Feiwu 3x3&#160160;</modelo>
+        <tipo>&#160;Base blanca&#160;</tipo>
+        <precio>&#160;$ 129&#160;</precio>
+    </cubo>
+    <cubo>
+        <marca>&#160;Cobra&#160;</marca>
+        <modelo>&#160;Iron 3x3&#160;</modelo>
+        <tipo>&#160;stickerless fibra de carbono&#160;</tipo>
+        <precio>&#160;109&#160;</precio>
+    </cubo>
+</cubo-rubik>
